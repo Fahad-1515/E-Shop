@@ -3,9 +3,9 @@
 
 This is the frontend for the e-commerce application built using Vue 3 and Vite.
 
-Features include:
+# Features include:
 
-1. Navigation & Layout
+# Navigation & Layout
 
 Responsive Navbar with links to Home, Cart, Login, and Register.
 
@@ -13,7 +13,7 @@ Footer component for consistent site layout.
 
 Container & Grid layout for responsive product displays using Tailwind CSS.
 
-2. Product Listing & Cards
+# Product Listing & Cards
 
 Display of featured products in a grid.
 
@@ -33,7 +33,7 @@ Link to product detail page.
 
 Hover effects for cards (shadow and slight lift on hover).
 
-3. Product Detail Page
+# Product Detail Page
 
 Full product display:
 
@@ -47,7 +47,7 @@ Stock status and delivery information.
 
 Organized with flex layout for image + details side by side on larger screens.
 
-4. Shopping Cart
+# Shopping Cart
 
 Display of all cart items with:
 
@@ -67,7 +67,7 @@ Persisted in localStorage to maintain cart between sessions.
 
 Responsive layout for mobile and desktop.
 
-5. Search Functionality
+# Search Functionality
 
 Search bar in Navbar with:
 
@@ -81,7 +81,7 @@ Dynamic filtering of products based on search input.
 
 Displays search results or fallback message if no products found.
 
-6. Responsive Design
+# Responsive Design
 
 Mobile-first design using Tailwind CSS.
 
@@ -91,7 +91,7 @@ Flex and spacing utilities for proper alignment and padding.
 
 Hover transitions for better UX.
 
-7. User Interaction & Feedback
+# User Interaction & Feedback
 
 Alerts when trying to add out-of-stock items.
 
